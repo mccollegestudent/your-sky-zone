@@ -40,7 +40,6 @@ public class Finder extends JFrame {
 		lomin = 5.9962;
 		lamax = 47.8229;
 		lomax = 10.5226;
-		queryName = "Orlando";
 
 		String url = "https://opensky-network.org/api/states/all?lamin=" + lamin + "&lomin=" + lomin + "&lamax=" + lamax
 				+ "&lomax=" + lomax;
